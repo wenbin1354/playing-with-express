@@ -1,0 +1,23 @@
+{
+  "name": "playing-w-express-wenbin1354",
+  "version": "1.0.0",
+  "description": "playing-w-express-wenbin1354 created by GitHub Classroom",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CTP2022-Friday-0600/playing-w-express-wenbin1354.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CTP2022-Friday-0600/playing-w-express-wenbin1354/issues"
+  },
+  "homepage": "https://github.com/CTP2022-Friday-0600/playing-w-express-wenbin1354#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
